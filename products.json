@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fender Stratocaster",
+      "brand": "Fender",
+      "description": "The iconic Fender Stratocaster electric guitar.",
+      "price": 1499.99
+    },
+    {
+      "id": 2,
+      "name": "Gibson Les Paul",
+      "brand": "Gibson",
+      "description": "The legendary Gibson Les Paul electric guitar.",
+      "price": 1999.99
+    },
+    {
+      "id": 3,
+      "name": "Martin D-28",
+      "brand": "Martin",
+      "description": "The classic Martin D-28 acoustic guitar.",
+      "price": 2999.99
+    },
+    {
+      "id": 4,
+      "name": "Taylor 814ce",
+      "brand": "Taylor",
+      "description": "The versatile Taylor 814ce acoustic-electric guitar.",
+      "price": 3499.99
+    }
+  ]
+}
